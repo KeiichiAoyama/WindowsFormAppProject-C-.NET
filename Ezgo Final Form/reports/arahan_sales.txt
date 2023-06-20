@@ -1,0 +1,60 @@
+
+      I, admin would like for this division to create a Tour Group for the Tour Package 
+      listed below.
+
+      Create a Tour Group
+
+
+
+     tourID      tpName             employee   tpPrice   destID
+
+     t004        Jakarta WOW        tour       6,000,0   jkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

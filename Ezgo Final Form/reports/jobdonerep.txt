@@ -1,0 +1,60 @@
+
+      I, tour have completed my assignment as the Tour Guide of the Tour Package listed 
+      below at 2023-06-16.
+
+      After Work Report
+
+
+
+     tourID      tpName             employee   tpPrice   destID
+
+     t004        Jakarta WOW        tour       6,000,0   jkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
